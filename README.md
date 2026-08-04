@@ -1,13 +1,11 @@
-# Apple Invites for Windows — Unofficial Desktop App
+# Apple Invites for Windows
 
 [![Release](https://img.shields.io/github/v/release/taylorivanoff/apple-invites-windows)](https://github.com/taylorivanoff/apple-invites-windows/releases)
 [![Downloads](https://img.shields.io/github/downloads/taylorivanoff/apple-invites-windows/total)](https://github.com/taylorivanoff/apple-invites-windows/releases)
 [![License](https://img.shields.io/github/license/taylorivanoff/apple-invites-windows)](LICENSE)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-yellow?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/taylorivanoff)
 
-Unofficial **Apple Invites for Windows** desktop app. Access [Apple Invites](https://www.icloud.com/invites) in a dedicated Electron client with system tray, auto-updates, and shared Apple ID authentication.
-
-Create and manage Apple Invites on Windows with a dedicated desktop client instead of a browser tab.
+Apple Invites desktop app for Windows. Access [Apple Invites](https://www.icloud.com/invites).
 
 ## Features
 
@@ -41,7 +39,7 @@ bun run release
 
 ## Keywords
 
-Apple Invites Windows, iCloud Invites desktop app, Apple Invites for PC, unofficial Apple Invites Windows client
+Apple Invites Windows, iCloud Invites desktop app, Apple Invites for PC, Apple Invites Windows client
 
 ## Contributing
 
